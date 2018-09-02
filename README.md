@@ -96,7 +96,7 @@ Seeder Created: 132545626_products.js
 
 You will find the created page inside: `seeds`.
 
-#### Running the Migrations
+#### Running the Seeds
 
 ```bash
 $ vex seed
