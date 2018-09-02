@@ -14,7 +14,7 @@ $ npm i -g @vuetronex/cli
 
 ## Usage
 
-Run: `node vex --help` to get all the command offered with this package.
+Run: `vex --help` or `vex` to get all the command offered with this package.
 
 #### Create Project
 
@@ -42,7 +42,7 @@ Out:
 Page Component: ProductItem.vue
 ```
 
-You will find the created page inside: `src/components`.
+You will find the created component inside: `src/components`.
 
 #### Create Models
 
@@ -53,7 +53,7 @@ Out:
 Model Created: Product.js
 ```
 
-You will find the created page inside: `models`.
+You will find the created model inside: `models`.
 
 Optionally you can also use `-m` to make the migration as well.
 Also, you can use `-s` to make the seeder at the same go.
@@ -67,7 +67,7 @@ Out:
 Migration Created: 132545626_products.js
 ```
 
-You will find the created page inside: `migrations`.
+You will find the created migration inside: `migrations`.
 
 Optionally, you can use `-a` flag if you want alter table migration.
 
@@ -94,7 +94,7 @@ Out:
 Seeder Created: 132545626_products.js
 ```
 
-You will find the created page inside: `seeds`.
+You will find the created seeder inside: `seeds`.
 
 #### Running the Seeds
 
