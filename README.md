@@ -14,7 +14,7 @@ $ npm i -g @vuetronex/cli
 
 ## Usage
 
-Run: `node vix --help` to get all the command offered with this package.
+Run: `node vex --help` to get all the command offered with this package.
 
 #### Create Project
 
