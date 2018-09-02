@@ -1,7 +1,7 @@
 {
-  "name": "vuetronex",
-  "version": "1.0.0",
-  "description": "Vuetronex Command Line tool",
+  "name": "@vuetronex/cli",
+  "version": "0.0.1",
+  "description": "Vuetronex CLI Utility",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,23 +9,20 @@
   "keywords": [
     "Vuetronex",
     "CLI",
-    "Vuetronex",
     "Vue",
-    "JS",
     "Electron",
-    "Vue",
     "Router",
     "Knex",
-    "JS",
     "Bookshelf",
-    "JS",
-    "Tailwind",
-    "CSS"
+    "Tailwind"
   ],
   "bin": {
     "vex": "./index.js"
   },
   "author": "Kazi Mainuddin Ahmed",
+  "repository": {
+    "url": "https://github.com/vuetronex/cli"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
