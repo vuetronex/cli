@@ -1,4 +1,4 @@
-![Vuetronex CLI](logo.png "Vuetronex CLI")
+![Vuetronex CLI](https://raw.githubusercontent.com/vuetronex/cli/master/logo.png "Vuetronex CLI")
 
 # Vuetronex CLI
 
