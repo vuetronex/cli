@@ -1,0 +1,42 @@
+{
+  "name": "vuetronex",
+  "version": "1.0.0",
+  "description": "Vuetronex Command Line tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vuetronex",
+    "CLI",
+    "Vuetronex",
+    "Vue",
+    "JS",
+    "Electron",
+    "Vue",
+    "Router",
+    "Knex",
+    "JS",
+    "Bookshelf",
+    "JS",
+    "Tailwind",
+    "CSS"
+  ],
+  "bin": {
+    "vex": "./index.js"
+  },
+  "author": "Kazi Mainuddin Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "commander": "^2.17.1",
+    "configstore": "^4.0.0",
+    "figlet": "^1.2.0",
+    "hogan.js": "^3.0.2",
+    "inquirer": "^6.2.0",
+    "minimist": "^1.2.0",
+    "pluralize": "^7.0.0"
+  }
+}

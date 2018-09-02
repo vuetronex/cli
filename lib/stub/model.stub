@@ -1,0 +1,7 @@
+var Model = require('../db');
+
+var {{name}} = Model.extend({
+    tableName: '{{tableName}}'
+});
+
+module.exports = {{name}};

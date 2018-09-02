@@ -1,0 +1,11 @@
+exports.up = function(knex, Promise) {
+    return knex.schema.alterTable('{{tableName}}', function (table) {
+        // table.string(...)
+    });
+};
+
+exports.down = function(knex, Promise) {
+    return knex.schema.alterTable('{{tableName}}', function (table) {
+        // table.dropColumn(...)
+    });
+};
