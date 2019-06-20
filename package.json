@@ -28,7 +28,7 @@
     "chalk": "^2.4.1",
     "clear": "^0.1.0",
     "commander": "^2.17.1",
-    "configstore": "^4.0.0",
+    "configstore": "^5.0.0",
     "figlet": "^1.2.0",
     "hogan.js": "^3.0.2",
     "inquirer": "^6.2.0",
