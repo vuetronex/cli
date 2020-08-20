@@ -27,7 +27,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "clear": "^0.1.0",
-    "commander": "^3.0.0",
+    "commander": "^6.0.0",
     "configstore": "^5.0.0",
     "figlet": "^1.2.0",
     "hogan.js": "^3.0.2",
