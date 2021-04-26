@@ -31,7 +31,7 @@
     "configstore": "^5.0.0",
     "figlet": "^1.2.0",
     "hogan.js": "^3.0.2",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.0.0",
     "minimist": "^1.2.0",
     "pluralize": "^8.0.0",
     "cli-spinners": "^2.0.0",
